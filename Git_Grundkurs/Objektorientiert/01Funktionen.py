@@ -34,3 +34,4 @@ print("Die Summe ist:", ergebnis)
 
 gruß = begruessung("Max")
 print(gruß)
+print(Bye)
